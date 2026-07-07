@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Tanya Garg
+- Roll Number: 2300830130014
+- Section: C
+- GitHub Username: Tanya-garg10
